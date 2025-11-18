@@ -3,8 +3,8 @@
 Atualmente sou estudante de Engenharia de Software e desenvolvo projetos utilizando **Python, JavaScript, Java, HTML/CSS e PHP**.  
 Gosto de criar soluções práticas, aprender novas tecnologias e evoluir continuamente como desenvolvedor.
 ##
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=joanirr&show_icons=true&theme=tokyonight)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joanirr&layout=compact&theme=tokyonight)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=joanirr&show_icons=true&theme=tokyonight&cache_seconds=7200)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joanirr&layout=compact&theme=tokyonight&cache_seconds=7200)
 
 <div> 
   <a href="https://instagram.com/joanir_rodrigo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
